@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+		"nombre": "Ensalada Cesar",
+		"descripcion": "Ensalada de gambas, champiñones, cilantro",
+        "imagen": "https://cdn.colombia.com/gastronomia/2011/08/19/ensalada-cesar-3403.jpg",
+		"precio": 8000
+    },
+	{
+		"id": 2,
+		"nombre": "Picada Mixta",
+		"descripcion": "Contiene pollo, champiñones, camarones y huevos",
+		"imagen": "https://d320djwtwnl5uo.cloudfront.net/recetas/cover_wgrskh81nt_rellenos.jpg",
+		"precio": 12000
+    },
+    {
+        "id": 3,
+		"nombre": "Hamburguesa Gitana",
+		"descripcion": "Pan blanco, carne de res, queso, tocineta, huevo, vegetales",
+		"imagen": "https://www.lagitana.com.co/wp-content/uploads/2021/01/hamburguesa-queso.jpg",
+		"precio": 22000
+    },
+	{
+		"id": 4,
+		"nombre": "Salchipollo",
+		"descripcion": "100 gr de papa a la francesa, 50 gr de salchicha y 50 gr de pollo",
+		"imagen": "https://bekiscrunch.com/wp-content/uploads/2021/07/Salchipollo-BC-1.png",
+		"precio": 15000
+    }
+]

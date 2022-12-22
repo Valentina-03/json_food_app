@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+		"nombre": "Capitan Sparrow",
+		"descripcion": "Ron dorado, brandy, ginebra",
+		"imagen": "https://encolombia.com/wp-content/uploads/2012/12/NewOrleans-brandy.jpeg",
+		"precio": 26000
+	},
+	{
+		"id": 2,
+		"nombre": "Lego",
+		"descripcion": "Vodka, gotas de vainilla, ron de coco, syrop",
+		"imagen": "Vodka, gotas de vainilla, ron de coco, syrop ",
+		"precio": 20000
+	},
+    {
+        "id": 3,
+		"nombre": "Tequila al coco",
+		"descripcion": "Vodka lemongras, licor de cafe, crema de leche, amaretto",
+		"imagen": "https://coctelia.com/wp-content/uploads/2020/06/bebida-margarita-de-coco-768x1024.jpg",
+		"precio": 12000
+	},
+	{
+		"id": 4,
+		"nombre": "Spritz al limoncillo",
+		"descripcion": "Ginebra, Jagermaister,syrop de romero, zumo de limón....",
+		"imagen": "https://okdiario.com/look/img/2020/09/04/aperol.jpg",
+		"precio": 13000
+    }
+]
